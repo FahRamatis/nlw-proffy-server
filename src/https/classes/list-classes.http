@@ -1,0 +1,1 @@
+GET http://localhost:3333/classes?week_day=0&subject=Historia&time=11:00
